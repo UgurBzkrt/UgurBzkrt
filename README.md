@@ -18,6 +18,6 @@
 <p align="left"> <a href="https://twitter.com/ugurkajevic" target="blank"><img src="https://img.shields.io/twitter/follow/ugurkajevic?logo=twitter&style=for-the-badge" alt="ugurkajevic" /></a> </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurbzkrt&show_icons=true&locale=en&layout=compact" alt="ugurbzkrt" /></p>
-&nbsp;
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ugurbzkrt&show_icons=true&locale=en" alt="ugurbzkrt" /></p>
 
