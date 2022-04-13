@@ -6,8 +6,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://twitter.com/ugurkajevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ugurkajevic" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ugur bozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugur bozkurt" height="30" width="40" /></a>
 <a href="https://instagram.com/ugurkajevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugurkajevic" height="30" width="40" /></a>
@@ -18,6 +18,6 @@
 <p align="left"> <a href="https://twitter.com/ugurkajevic" target="blank"><img src="https://img.shields.io/twitter/follow/ugurkajevic?logo=twitter&style=for-the-badge" alt="ugurkajevic" /></a> </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurbzkrt&show_icons=true&locale=en&layout=compact" alt="ugurbzkrt" /></p>
-
+<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ugurbzkrt&show_icons=true&locale=en" alt="ugurbzkrt" /></p>
 
