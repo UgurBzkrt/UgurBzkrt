@@ -13,24 +13,11 @@
 <a href="https://instagram.com/ugurkajevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugurkajevic" height="30" width="40" /></a>
 </p>
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurbzkrt&label=Profile%20views&color=0e75b6&style=flat" alt="ugurbzkrt" /> </p>
-
-
 
 <p align="left"> <a href="https://twitter.com/ugurkajevic" target="blank"><img src="https://img.shields.io/twitter/follow/ugurkajevic?logo=twitter&style=for-the-badge" alt="ugurkajevic" /></a> </p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurbzkrt&show_icons=true&locale=en&layout=compact" alt="ugurbzkrt" /></p>
-
-
-
-
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurbzkrt&show_icons=true&locale=en&layout=compact" alt="ugurbzkrt" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ugurbzkrt&show_icons=true&locale=en" alt="ugurbzkrt" /></p>
 
